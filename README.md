@@ -155,5 +155,3 @@ deploy, integrate, or use the Solana blockchain protocol code directly
 (e.g., as a node operator), and individuals that transact on the Solana
 blockchain through light clients, third party interfaces, and/or wallet
 software.
-
-Test22
